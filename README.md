@@ -12,7 +12,7 @@ Weather Api Url by City :
 
 http://api.openweathermap.org/data/2.5/forecast?q='+yourcityname'&APPID='+apiKey
 
-Features
+Features :
 
 Current Weather Conditions City Simple access to meteorological and weather data By default the data is cached for 5days/3hour.
 
