@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nil-kul007/weatherForcasting.git"
+    "url": "git+https://github.com/nil-kul007/weatherForecasting.git"
   },
   "author": "Anil",
   "license": "ISC",
@@ -43,7 +43,7 @@
     "redux-promise": "^0.5.3"
   },
   "bugs": {
-    "url": "https://github.com/nil-kul007/weatherForcasting/issues"
+    "url": "https://github.com/nil-kul007/weatherForecasting/issues"
   },
-  "homepage": "https://github.com/nil-kul007/weatherForcasting#readme"
+  "homepage": "https://github.com/nil-kul007/weatherForecasting#readme"
 }
