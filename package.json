@@ -1,7 +1,7 @@
 {
-  "name": "weatherforcasting",
+  "name": "weatherforecasting",
   "version": "1.0.0",
-  "description": "Weather forcasting Application",
+  "description": "Weather forecasting Application",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
